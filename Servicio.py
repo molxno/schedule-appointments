@@ -1,3 +1,15 @@
+# =============================================================
+# Momento Evaluativo 2 - Estructura de Datos y Laboratorio
+# Listas y Archivos
+#
+# Integrantes:
+#   - Santiago Molano Holguín
+#   - Samuel Olaya Olaya
+#   - Kevin Álvarez Blandon
+#
+# Docente: Ricardo Franco Ceballos - ITM
+# =============================================================
+
 class Servicio():
     def __init__(self, codigo: str, descripcion: str, valorServicio: float, duracion: int, creador):
         """

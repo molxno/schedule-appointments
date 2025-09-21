@@ -1,3 +1,15 @@
+# =============================================================
+# Momento Evaluativo 2 - Estructura de Datos y Laboratorio
+# Listas y Archivos
+#
+# Integrantes:
+#   - Santiago Molano Holguín
+#   - Samuel Olaya Olaya
+#   - Kevin Álvarez Blandon
+#
+# Docente: Ricardo Franco Ceballos - ITM
+# =============================================================
+
 from datetime import date, time, datetime
 from agendaCitas import agendaCitas
 

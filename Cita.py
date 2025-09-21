@@ -1,3 +1,15 @@
+# =============================================================
+# Momento Evaluativo 2 - Estructura de Datos y Laboratorio
+# Listas y Archivos
+#
+# Integrantes:
+#   - Santiago Molano Holguín
+#   - Samuel Olaya Olaya
+#   - Kevin Álvarez Blandon
+#
+# Docente: Ricardo Franco Ceballos - ITM
+# =============================================================
+
 class Cita():
     generadorIdentificador=0
     def __init__(self, usuario, servicio, empleado, fecha, hora, valorPagar):
