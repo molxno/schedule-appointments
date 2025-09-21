@@ -1,0 +1,22 @@
+Codigo;Descripcion;Valor;Duracion;Identificacion Administrador
+1001;Corte de cabello;91000;47;1123030120
+1002;Tinte de cabello;88000;84;1059052781
+1003;Manicure;30000;149;1091653434
+1004;Pedicure;123000;130;1123030120
+1005;Depilación de cejas;82000;100;1059052781
+1006;Maquillaje;71000;80;1091653434
+1007;Tratamiento facial;116000;64;1123030120
+1008;Tratamiento capilar;39000;138;1059052781
+1009;Masaje relajante;131000;110;1091653434
+1010;Depilación corporal;95000;92;1123030120
+1011;Peinado para eventos;31000;123;1059052781
+1012;Extensiones de cabello;115000;48;1091653434
+1013;Exfoliación facial;60000;57;1123030120
+1014;Uñas acrílicas;118000;149;1123030120
+1015;Permanente de pestañas;92000;68;1123030120
+1016;Tinte de cejas;47000;90;1123030120
+1017;Baño de keratina;71000;83;1059052781
+1018;Maquillaje para novias;55000;40;1059052781
+1019;Tratamiento de uñas de gel;42000;36;1059052781
+1020;Spa de manos y pies;52000;58;1059052781
+1021;Tratamiento de queratina capilar;52000;30;1091653434
